@@ -2,7 +2,7 @@
 A tool which downloads the official version of Bat To Exe Converter from the IPFS
 
 <h2>Description</h2>
-<p>This tool will download the official version of <b><a href="https://web.archive.org/web/20190305143024/http://f2ko.de/en/b2e.php" title="Bat To Exe Converter">Bat To Exe Converter</a></b> which is now hosted on the <a href="https://ipfs.io" title="Inter-Planetary File System (IPFS)"><b>Inter-Planetary File System (IPFS)</b></a>
+<p>This tool will download the official version of <b><a href="https://web.archive.org/web/20190305143024/http://f2ko.de/en/b2e.php" title="Bat To Exe Converter">Bat To Exe Converter</a></b> which is now being hosted on the <a href="https://ipfs.io" title="Inter-Planetary File System (IPFS)"><b>Inter-Planetary File System (IPFS)</b></a>
 </p>
 
 <h2>Requirements</h2>
