@@ -15,3 +15,43 @@ A tool which downloads the official version of Bat To Exe Converter from the IPF
 <p> 1) <a href="https://github.com/99fk/Bat-To-Exe-Converter-Downloader/archive/master.zip">Download</a> the source</p>
 <p> 2) Extract it to a location of your choice</p>
 <p> 3) Open <b>Bat_To_Exe_Converter_Downloader.pb</b> in PureBasic and hit <b>Compile</b></p>
+
+<h2>About Bat To Exe Converter</h2>
+
+<table>
+<tr>
+<td><b>Version</b></td>
+<td>3.1.0.0</td>
+</tr>
+<tr>
+<td><b>
+Size</b></td>
+<td>7,95 MB</td>
+</tr>
+<tr>
+<td><b>
+Platform</b></td>
+<td>Windows</td>
+</tr>
+<tr>
+<td><b>
+Last updated</b></td>
+<td>2019-05-18</td>
+</tr>
+<tr>
+<td><b>
+MD5</b></td>
+<td>f628f12bb38542d4980ca87891914ae2</td>
+</tr>
+
+<tr>
+<td><b>
+Inter-Planetary File System (IPFS)</b></td>
+<td>
+<a href="http://127.0.0.1:8080/ipfs/QmRPLvZQCneR7PY9doAQ1ptqU7fqiE5Uu3B2qGx9haYDx5" target="_blank">
+QmRPLvZQCneR7PY9doAQ1ptqU7fqiE5Uu3B2qGx9haYDx5
+</a>
+</td>
+</tr>
+
+</table>
