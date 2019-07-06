@@ -81,8 +81,8 @@ EndIf
 
 EndProcedure
 Procedure Save()
-  
-  s$=SaveFileRequester("Save as...",saveas$,"ZIP (*.zip)|*.zip",0)
+      
+  s$=SaveFileRequester("Save as...", GetPathPart(ProgramFilename()) + saveas$,"ZIP (*.zip)|*.zip",0)
   
 If s$
   
@@ -133,7 +133,7 @@ If GetSize(GateWays()) = size
   
   *mem = FinishHTTP(down)
   
-If Fingerprint(*mem, MemorySize(*mem), #PB_Cipher_MD5) = md5$
+If Fingerprint(*mem, size, #PB_Cipher_MD5) = md5$
   
   Save()
 
@@ -162,8 +162,8 @@ Else
   End
   
 EndIf
-; IDE Options = PureBasic 5.70 LTS (Windows - x86)
+; IDE Options = PureBasic 5.70 LTS (Linux - x64)
 ; Folding = w
 ; EnableXP
 ; UseIcon = icon.ico
-; Executable = Bat_To_Exe_Converter_ Downloader.exe
+; Executable = downloader
