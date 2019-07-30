@@ -21,7 +21,7 @@ A tool which downloads the official version of Bat To Exe Converter from the IPF
 <table>
 <tr>
 <td><b>Version</b></td>
-<td>3.1.0.0</td>
+<td>3.2.0.0</td>
 </tr>
 <tr>
 <td><b>
@@ -36,20 +36,20 @@ Platform</b></td>
 <tr>
 <td><b>
 Last updated</b></td>
-<td>2019-05-18</td>
+<td>2019-07-30</td>
 </tr>
 <tr>
 <td><b>
 MD5</b></td>
-<td>f628f12bb38542d4980ca87891914ae2</td>
+<td>046744906a71e727676f8b6ffb21bb22</td>
 </tr>
 
 <tr>
 <td><b>
 Inter-Planetary File System (IPFS)</b></td>
 <td>
-<a href="http://127.0.0.1:8080/ipfs/QmRPLvZQCneR7PY9doAQ1ptqU7fqiE5Uu3B2qGx9haYDx5" target="_blank">
-QmRPLvZQCneR7PY9doAQ1ptqU7fqiE5Uu3B2qGx9haYDx5
+<a href="http://127.0.0.1:8080/ipfs/QmPBp7wBSC9GukPUcp7LXFCGXBvc2e45PUfWUbCJzuLG65" target="_blank">
+QmPBp7wBSC9GukPUcp7LXFCGXBvc2e45PUfWUbCJzuLG65
 </a>
 </td>
 </tr>
